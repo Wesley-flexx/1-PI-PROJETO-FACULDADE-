@@ -4,9 +4,9 @@
 Sistema de gerenciamento de estoque com HTML, CSS e JavaScript, usando Firebase para armazenamento e autenticação. Features: cadastro de produtos (nome equantidade), busca por categoria e controle de entradas/saídas.
 
 🚀 Funcionalidades
-📝 Cadastro de produtos (nome e quantidade).
-🔍 Busca e filtro de produtos por nome.
-📊 Controle de entrada e saída de itens do estoque
+*📝 Cadastro de produtos (nome e quantidade).
+*🔍 Busca e filtro de produtos por nome.
+*📊 Controle de entrada e saída de itens do estoque
 
 📌 Pré-requisitos
 * Navegador moderno (Chrome, Firefox, Edge).
