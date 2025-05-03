@@ -1,0 +1,81 @@
+body {
+    background-color: #e6ebee;
+    font-family: Arial, sans-serif;
+  }
+  .container-produtos {
+    max-width: 1200px;
+    margin: 40px auto;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    padding: 20px;
+    border: 2px solid #333333;
+  }
+  .header {
+    background-color: #38559D;
+    color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .header img {
+    height: 60px;
+  
+  }
+ .titulo {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 30px;
+    color: #333333;
+
+  }
+  .produto-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+  }
+  .produto-item:last-child {
+    border-bottom: none;
+  }
+  .acoes  {
+    margin: 0 5px;
+    padding-right: 50px;
+    cursor: pointer;
+  }
+  .icons {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  .btn-adicionar {
+    background-color: #38559D;
+    color: white;
+  }
+  .search-bar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
+  }
+  .search-bar input {
+    flex: 1;
+  }
+  .itens-info {
+    font-size: 14px;
+    color: #F4B064;
+  }
+
+  .btn-primary {
+    background-color: #38559D;
+  }
+  .footer {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 20px;
+    color: #333333;
+  }
+ 
